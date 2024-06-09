@@ -34,7 +34,7 @@ class Flower {
     this.y = y;
     this.petals = 5; 
     this.size = 0;
-    this.maxSize = random(5, 10);
+    this.maxSize = random(100, 110);
     this.growthRate = random(1, 3);
     this.hue = random(360); // 
     this.alpha = 255; // 
